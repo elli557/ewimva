@@ -1,0 +1,1 @@
+export { Mangoewimva } from "./Mangoewimva";
